@@ -1,0 +1,40 @@
+{
+  "author": "Wolox",
+  "user-agent": "",
+  "version": "0.0.2",
+  "main": "",
+  "chromium-args": "",
+  "description": "Some description",
+  "dependencies": {
+    "jade": "^1.9.1",
+    "coffee-script": "^1.8.0",
+    "bower": "^1.3.12",
+    "karma": "^0.12.31",
+    "karma-coffee-preprocessor": "^0.2.1",
+    "karma-ng-scenario": "^0.1.0",
+    "nodewebkit": "0.11.5"
+  },
+  "scripts": {
+    "test": "karma start test/karma.conf.js",
+    "app": "nodewebkit .build"
+  },
+  "devDependencies": {
+    "connect-livereload": ">=0.4.0",
+    "grunt": ">=0.4.3",
+    "grunt-bower-concat": "^0.4.0",
+    "grunt-contrib-clean": ">=0.5.0",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-contrib-concat": ">=0.3.0",
+    "grunt-contrib-copy": ">=0.5.0",
+    "grunt-contrib-jade": "^0.13.0",
+    "grunt-contrib-less": ">=0.11.0",
+    "grunt-contrib-uglify": ">=0.4.0",
+    "grunt-contrib-watch": ">=0.6.0",
+    "grunt-express-server": ">=0.4.17",
+    "grunt-load-options": ">=0.1.4",
+    "grunt-node-webkit-builder": "1.0.0",
+    "grunt-newer": ">=0.7.0",
+    "load-grunt-tasks": ">=0.4.0",
+    "time-grunt": ">=0.3.0"
+  }
+}

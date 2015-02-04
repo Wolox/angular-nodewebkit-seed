@@ -1,0 +1,14 @@
+[
+  "services.js",
+
+  "directives.js",
+
+  "filters.js",
+
+  "appCtrl.js",
+  "navCtrl.js",
+  "homeCtrl.js",
+
+  "app.js",
+  "i18n.js"
+]
