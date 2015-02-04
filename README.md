@@ -9,3 +9,4 @@ To use:
 * `bower install && npm install`
 * `grunt`
 * In another terminal run `npm run app`
+
