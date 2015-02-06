@@ -33,6 +33,8 @@ In another terminal window, run `npm run app`. This will run the app.
 
 Grunt will continuously listen for file changes in `src` directory and recompile the app if needed.
 
+Whenever you add a coffeescript file, you need to add it to `appjs.json`. This file indicates which files and in which order must be minified. This is something we want to change at some point in the future.
+
 ### Compiling app for production
 
 `grunt prod` will run grunt in production mode and build the executable files under the `dist` folder.

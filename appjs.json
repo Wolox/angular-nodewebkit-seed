@@ -9,6 +9,9 @@
   "navCtrl.js",
   "homeCtrl.js",
 
+  "development.js",
+  "production.js",
+
   "app.js",
   "i18n.js"
 ]
