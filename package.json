@@ -9,9 +9,6 @@
     "jade": "^1.9.1",
     "coffee-script": "^1.8.0",
     "bower": "^1.3.12",
-    "karma": "^0.12.31",
-    "karma-coffee-preprocessor": "^0.2.1",
-    "karma-ng-scenario": "^0.1.0",
     "nodewebkit": "0.11.5"
   },
   "scripts": {
@@ -19,6 +16,9 @@
     "app": "nodewebkit .build"
   },
   "devDependencies": {
+    "karma": "^0.12.31",
+    "karma-coffee-preprocessor": "^0.2.1",
+    "karma-ng-scenario": "^0.1.0",
     "connect-livereload": ">=0.4.0",
     "grunt": ">=0.4.3",
     "grunt-bower-concat": "^0.4.0",

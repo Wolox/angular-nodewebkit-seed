@@ -6,6 +6,12 @@ module.exports = function(grunt) {
         var isDevEnv = (target === 'dev'),
             type = isDevEnv && 'devbuild' || 'build';
 
+        if (target === 'dev') {
+            grunt.option('env', 'development');
+        } else {
+            grunt.option('env', 'production');
+        }
+
         grunt.task.run('clean:build');
         grunt.task.run('clean:temp');
 
