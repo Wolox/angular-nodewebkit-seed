@@ -52,7 +52,7 @@ This project is maintained by [Matías De Santi](https://github.com/mdesanti) an
 
 **AngularJS-Nodewebkit-seed** is available under the MIT
 
-    Copyright (c) 2014 Matías De Santi <matias.desanti@wolox.com.ar>
+    Copyright (c) 2015 Matías De Santi <matias.desanti@wolox.com.ar>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
