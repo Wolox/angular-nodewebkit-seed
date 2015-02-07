@@ -1,6 +1,6 @@
 # AngularJS + NodeWebkit seed
 
-This project is a seed is a seed we have developed at [Wolox](http://www.wolox.com.ar)
+This is a seed project developed at [Wolox](http://www.wolox.com.ar)
 after building a desktop app with AngularJS, NodeWebkit, Jade and CoffeeScript.
 It is intended to be a starting point for everyone who wants to build a cross-platform desktop app
 using AngularJS and NodeWebkit.
